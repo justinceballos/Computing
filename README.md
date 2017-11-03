@@ -1,2 +1,2 @@
 # Computing
-Research projects on computing 
+Repository includes research projects on computing.
