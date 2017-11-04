@@ -1,0 +1,30 @@
+#r {
+  border-color: red;
+  border-style: dashed;
+}
+#o {
+  border-color: orange;
+  border-style: dashed;
+}
+#y {
+  border-color: yellow;
+  border-style: dashed;
+}
+#g {
+  border-color: green;
+  border-style: dashed;
+}
+#b {
+  border-color: blue;
+  border-style: dashed;
+}
+#v {
+  border-color: violet;
+  border-style: dashed;
+}
+
+/* correction to boostrap .center-block class */
+.center-block {
+    display: block;
+    margin: 0 auto;
+}
